@@ -1,0 +1,9 @@
+numpy
+pandas
+PyYAML
+requests
+SQLAlchemy
+psycopg2-binary
+scikit-learn
+docker
+kafka-python
